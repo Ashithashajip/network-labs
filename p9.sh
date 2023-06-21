@@ -1,0 +1,2 @@
+echo enter the year:
+
